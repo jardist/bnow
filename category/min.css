@@ -19,7 +19,7 @@ a:hover {color: #b30000;}
 #feed-container li .inner .news-text{height: 1px;overflow: hidden;}
 #feed-nav {text-align: center;font-size: 14px;margin: 13px 0 0;}
 #feed-nav a {display: block;padding: 11px 18px;background: #595959;color: #fff;border-radius: 50px;}
-#feed-nav a:hover {background: #005b99;}
+#feed-nav a:hover {background: #b30000;}
 /* media screen 960 desktop */
 @media screen and (max-width:606px){
 #feed-container {height: 600px;}
